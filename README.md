@@ -1,2 +1,3 @@
 # Code
-Small code projects
+<b>Small code projects</b>
+Video Thumbnail Generator
