@@ -1,3 +1,5 @@
 # Code
-<b>Small code projects</b>
-Video Thumbnail Generator
+<b>Small code projects</b></br>
+<ul>
+  <li>Video Thumbnail Generator</li>
+</ul>
